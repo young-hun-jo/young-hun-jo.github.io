@@ -9,7 +9,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Young Hun Jo,
+  username: "Young Hun Jo",
   title: "Hi all, I'm Young Hun",
   subTitle: emoji(
     "I really want to be a Data Scientist. I'm so interested in solving various problems using Machine Learning.🦾 I am proficient at Python / Pandas / Numpy / Scikit-learn / Tensorflow."
